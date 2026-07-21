@@ -30,6 +30,7 @@ build/
 !**/src/test/**/build/
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Package Files #
 *.jar
 *.war
@@ -52,3 +53,7 @@ replay_pid*
 ### VS Code ###
 .vscode/
 >>>>>>> a15fd292ef2ba7b3533c0f0a1ab55bb1b0788d04
+=======
+### VS Code ###
+.vscode/
+>>>>>>> origin/main
